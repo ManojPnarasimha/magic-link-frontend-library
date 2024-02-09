@@ -364,7 +364,7 @@ export const Passwordless = ({
                 </div>
               ) : (
                 <div className="passwordless-flex">
-                  <div>Sign in</div>
+                  <div >Sign in</div>
                   <div className="passwordless-svg-icon-container passwordless-flex-align-start">
                     <svg width="24px" height="20px">
                       <path d="M1.8,17.4 L1.8,3.23906256 L12,13.4402345 L22.2,3.23906256 L22.2,17.5195313 L1.8,17.5195313 L1.8,17.4 Z M21,1.8 L12,10.8 L3,1.8 L21,1.8 Z M0,0 L0,19.2 L24,19.2 L24,0 L0,0 Z"></path>
